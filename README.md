@@ -1,5 +1,5 @@
 # P1_AdR_jgg
-Clonar repositorio en src del workspace. 
+Clonar repositorio en `src` del workspace. 
 
 Hacer `colcon_build` y `install/setup.zsh`.
 
