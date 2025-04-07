@@ -1,7 +1,7 @@
 # P1_AdR_jgg
 Clonar repositorio en `src` del workspace. 
 
-Hacer `colcon_build` y `install/setup.zsh`.
+Hacer `colcon_build` y `source install/setup.zsh`.
 
 Paquete tutorials-->publisher y subscriber
  ```bash
